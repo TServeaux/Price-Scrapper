@@ -4,7 +4,7 @@ Author : Tao Serveaux
 Goal : Entry point of the application
 """
 
-import scheduler
+from .scripts import scheduler
 
 if __name__ == "__main__" :
 
